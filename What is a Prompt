@@ -1,1 +1,25 @@
 
+A smart prompt means giving AI clear and specific instructions so it can give us a better answer.
+
+A good prompt usually has 4 things:
+
+Role – Tell AI what it should act as.
+Example: “Act as a Java teacher.”
+Task – Clearly tell what you want.
+“Explain Java inheritance.”
+Context – Give some useful background.
+“I am a beginner.”
+Format – Tell AI how you want the answer.
+“Explain in 5 simple points with an example.”
+Simple Example
+
+ Weak prompt:
+“Tell me about Java.”
+
+ Smart prompt:
+“Act as a Java teacher. Explain Java inheritance for a beginner in 5 simple points with one example.”
+
+In simple words:
+ Clear prompt = Better instruction = Better AI output.
+
+You can remember it as: Role + Task + Context + Format = Smart Prompt.
